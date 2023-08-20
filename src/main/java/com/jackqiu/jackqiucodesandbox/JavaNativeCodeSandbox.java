@@ -65,7 +65,7 @@ public class JavaNativeCodeSandbox implements CodeSandBox {
 
         String code = executeCodeRequest.getCode();
         List<String> inputList = executeCodeRequest.getInputList();
-        String language = executeCodeRequest.getLanguage();
+//        String language = executeCodeRequest.getLanguage();
 
 //        FoundWord foundWord = WORD_TREE.matchWord(code);
 //        if(foundWord != null){
