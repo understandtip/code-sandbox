@@ -24,7 +24,12 @@ public class ExecuteMessage {
     private Long time;
 
     /**
-     *
+     *  退出代码（exit code）
      */
     private Integer exitValue;
+
+    /**
+     * 占用的内容
+     */
+    private Long memory;
 }
