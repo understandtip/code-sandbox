@@ -1,10 +1,5 @@
 import java.security.Permission;
 
-/**
- * 自定义的Java安全管理器
- *
- * @author jackqiu
- */
 public class MySecurityManager extends SecurityManager {
 
     /** 自定义权限
